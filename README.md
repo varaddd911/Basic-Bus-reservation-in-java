@@ -1,2 +1,1 @@
-# Basic-Bus-reservation-in-java
-Console code for bus reservation booking system
+we did console code in java for bus reservation system in java 
